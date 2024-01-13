@@ -27,11 +27,11 @@ Dự án được hiện bởi [Phan Thị Hồng Thắm](https://github.com/thm
 
 **Activity Diagram**
 
-![Alt text](ActivityDiagram.jpg)
+![Alt text](![Alt text](ActivityDiagram-1.jpg))
 
 ## Video demo
 
-- [Video demo](https://youtu.be/xyxJ8Omr1dY?si=E3tFDyho1N5-JHhC)
+### - [Video demo](https://youtu.be/xyxJ8Omr1dY?si=E3tFDyho1N5-JHhC)
 
 ## Ảnh Demo
 
@@ -55,9 +55,20 @@ Dự án được hiện bởi [Phan Thị Hồng Thắm](https://github.com/thm
 │   ├── Phan Thị Hồng Thắm
 │   │   ├── Product
 |   |   |   ├── src
-|   |   |   |   ├── main
-|   |   |   |   |   ├── java
-|   |   |   |   |   │   ├── controller
+|   |   |   |   ├── Play
+|   |   |   |   |   ├── GameBoard
+|   |   |   |   |   ├── Main
+|   |   |   |   |   ├── Manage
+|   |   |   |   |   ├── Player
+|   |   |   |   |   ├── Playing1vs1
+|   |   |   |   |   ├── Test
+|   |   |   |   ├── Ship
+|   |   |   |   |   ├── BattleShip
+|   |   |   |   |   ├── DestroyerBoat
+|   |   |   |   |   ├── PatrolBoat
+|   |   |   |   |   ├── Ship
+|   |   |   |   |   ├── Submarine
+|   |   |   |   |   ├── ToaDo
 │   │   │   ├── README.md
 │   │   │   ├── image.png
 │   │   │   └── ...
@@ -68,4 +79,6 @@ Dự án được hiện bởi [Phan Thị Hồng Thắm](https://github.com/thm
 │   │   ├── README.md
 │   │   └── ...
 │   ├── README.md
+│   ├── ...
 ```
+
